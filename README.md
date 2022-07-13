@@ -1,11 +1,13 @@
 # WEBDAV DEFACE
 
-jgn Di Recode Yah Gayn :)
+Luh Udah Gede Pasti Paham Cara Gunainya:)
 
 Cara install:
 
-$git clone https://github.com/B41B4L/WEBDAV/
+$git clone https://github.com/AMIRXPLOID/WEBDAV
+
 $sh bahan.sh
+
 $sh dav.sh
 
 
